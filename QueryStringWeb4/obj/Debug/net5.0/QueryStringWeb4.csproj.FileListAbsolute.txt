@@ -26,3 +26,4 @@ F:\Questpond\5.Web API\By Sanjay Sir\Source code\WebApiExercise\QueryStringWeb4\
 F:\Questpond\5.Web API\By Sanjay Sir\Source code\WebApiExercise\QueryStringWeb4\obj\Debug\net5.0\ref\QueryStringWeb4.dll
 F:\Questpond\5.Web API\By Sanjay Sir\Source code\WebApiExercise\QueryStringWeb4\obj\Debug\net5.0\QueryStringWeb4.pdb
 F:\Questpond\5.Web API\By Sanjay Sir\Source code\WebApiExercise\QueryStringWeb4\obj\Debug\net5.0\QueryStringWeb4.genruntimeconfig.cache
+F:\Questpond\5.Web API\By Sanjay Sir\Source code\WebApiExercise\QueryStringWeb4\obj\Debug\net5.0\QueryStringWeb4.csproj.AssemblyReference.cache

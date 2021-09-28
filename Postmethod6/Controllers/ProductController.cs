@@ -13,18 +13,18 @@ namespace Postmethod6.Controllers
     [ApiController]
     public class ProductController : ControllerBase
     {
-        /*[Consumes("application/json")]
-        [Produces("application/json")]*/
+        [Consumes("application/json")]
+        [Produces("application/json")]
         [HttpPost("create")]
-        public async Task<IActionResult> Create(Product products)
+        public async Task<IActionResult> Create(Product product)
         {
             try
             {
                 Console.WriteLine("New Product Information");
-                Console.WriteLine("ID:"+products.Id);
-                Console.WriteLine("Name:" + products.Name);
-                Console.WriteLine("Price:" + products.Price);
-                return Ok(products);
+                Console.WriteLine("ID:"+product.Id);
+                Console.WriteLine("Name:" + product.Name);
+                Console.WriteLine("Price:" + product.Price);
+                return Ok(product);
 
             }
             catch 
@@ -33,5 +33,26 @@ namespace Postmethod6.Controllers
                 return BadRequest();
             }
         }
+        [Consumes("application/jsoon")]
+        [Produces("application/json")]
+        [HttpPut("update")]
+        public async Task<IActionResult> Update(Product product)
+        {
+            try
+            {
+
+                Console.WriteLine("Update Product Information");
+                Console.WriteLine("ID:" + product.Id);
+                Console.WriteLine("Name:" + product.Name);
+                Console.WriteLine("Price:" + product.Price);
+                return Ok(product);
+            }
+            catch 
+            {
+                return BadRequest();
+            }
+        }
+
+
     }
 }

@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueryStringWeb4", "..\Query
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "objecttojson5", "..\objecttojson5\objecttojson5.csproj", "{B4846CEE-43FE-44F2-9E53-CE3CD100E922}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Postmethod6", "..\Postmethod6\Postmethod6.csproj", "{72118725-8662-4E5F-94DD-7ED74F1F3C39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Postmethod6", "..\Postmethod6\Postmethod6.csproj", "{72118725-8662-4E5F-94DD-7ED74F1F3C39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deletemethod7", "..\Deletemethod7\Deletemethod7.csproj", "{F6B83816-278D-43BF-B90F-BAF52F3D7130}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{72118725-8662-4E5F-94DD-7ED74F1F3C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72118725-8662-4E5F-94DD-7ED74F1F3C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72118725-8662-4E5F-94DD-7ED74F1F3C39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6B83816-278D-43BF-B90F-BAF52F3D7130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B83816-278D-43BF-B90F-BAF52F3D7130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B83816-278D-43BF-B90F-BAF52F3D7130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B83816-278D-43BF-B90F-BAF52F3D7130}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
