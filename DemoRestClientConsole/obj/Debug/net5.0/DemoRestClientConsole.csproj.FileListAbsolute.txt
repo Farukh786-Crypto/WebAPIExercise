@@ -1,0 +1,15 @@
+F:\Questpond\5.Web API\By Sanjay Sir\Source code\WebApiExercise\DemoRestClientConsole\bin\Debug\net5.0\DemoRestClientConsole.exe
+F:\Questpond\5.Web API\By Sanjay Sir\Source code\WebApiExercise\DemoRestClientConsole\bin\Debug\net5.0\DemoRestClientConsole.deps.json
+F:\Questpond\5.Web API\By Sanjay Sir\Source code\WebApiExercise\DemoRestClientConsole\bin\Debug\net5.0\DemoRestClientConsole.runtimeconfig.json
+F:\Questpond\5.Web API\By Sanjay Sir\Source code\WebApiExercise\DemoRestClientConsole\bin\Debug\net5.0\DemoRestClientConsole.runtimeconfig.dev.json
+F:\Questpond\5.Web API\By Sanjay Sir\Source code\WebApiExercise\DemoRestClientConsole\bin\Debug\net5.0\DemoRestClientConsole.dll
+F:\Questpond\5.Web API\By Sanjay Sir\Source code\WebApiExercise\DemoRestClientConsole\bin\Debug\net5.0\ref\DemoRestClientConsole.dll
+F:\Questpond\5.Web API\By Sanjay Sir\Source code\WebApiExercise\DemoRestClientConsole\bin\Debug\net5.0\DemoRestClientConsole.pdb
+F:\Questpond\5.Web API\By Sanjay Sir\Source code\WebApiExercise\DemoRestClientConsole\obj\Debug\net5.0\DemoRestClientConsole.GeneratedMSBuildEditorConfig.editorconfig
+F:\Questpond\5.Web API\By Sanjay Sir\Source code\WebApiExercise\DemoRestClientConsole\obj\Debug\net5.0\DemoRestClientConsole.AssemblyInfoInputs.cache
+F:\Questpond\5.Web API\By Sanjay Sir\Source code\WebApiExercise\DemoRestClientConsole\obj\Debug\net5.0\DemoRestClientConsole.AssemblyInfo.cs
+F:\Questpond\5.Web API\By Sanjay Sir\Source code\WebApiExercise\DemoRestClientConsole\obj\Debug\net5.0\DemoRestClientConsole.csproj.CoreCompileInputs.cache
+F:\Questpond\5.Web API\By Sanjay Sir\Source code\WebApiExercise\DemoRestClientConsole\obj\Debug\net5.0\DemoRestClientConsole.dll
+F:\Questpond\5.Web API\By Sanjay Sir\Source code\WebApiExercise\DemoRestClientConsole\obj\Debug\net5.0\ref\DemoRestClientConsole.dll
+F:\Questpond\5.Web API\By Sanjay Sir\Source code\WebApiExercise\DemoRestClientConsole\obj\Debug\net5.0\DemoRestClientConsole.pdb
+F:\Questpond\5.Web API\By Sanjay Sir\Source code\WebApiExercise\DemoRestClientConsole\obj\Debug\net5.0\DemoRestClientConsole.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xmFUwkQOsHkzTl2KaHbXq1DFIqHBt46/X3kMft/ys+4Z5DNVxSAJn/5n6H/+lEYa1heQtU6INyX9k6wbV+mcMA==",
+  "success": true,
+  "projectFilePath": "F:\\Questpond\\5.Web API\\By Sanjay Sir\\Source code\\WebApiExercise\\Postmethod6\\Postmethod6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ULTIMATE\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ULTIMATE\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ULTIMATE\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\ULTIMATE\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\ULTIMATE\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\ULTIMATE\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
